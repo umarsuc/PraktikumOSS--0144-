@@ -1,0 +1,4 @@
+Umar : G.231.18.0144 : Semarang
+Mata Kuliah : Open Source System
+Catatan : Praktikum dengan menggunakan GIT
+
